@@ -34,7 +34,7 @@ Powershell
 
 ## Turret Prototype
 
-Our earily turret prototype using sparkmax pid controller.
+Our early turret prototype using sparkmax pid controller.
 
 ### Deploying
 
