@@ -50,7 +50,7 @@ This shooter prototype uses shuffleboard to retrieve the desired rpms for both t
 Powershell
 
 ``` sh
-.\gradlew projects:2k24_climber:2k24_Climber:deploy
+.\gradlew projects:2k24-shooter-test-2024-reImported:deploy
 ```
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
