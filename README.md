@@ -20,6 +20,27 @@ Powershell
 .\gradlew projects:2k24_climber:2k24_Climber:deploy
 ```
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<h3>Contributors</h3>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/TopHatTacco"><img src="https://avatars.githubusercontent.com/u/105398626?v=3?s=100" width="100px;" alt="TopHatTacco"/>
+      <br /><sub><b>TopHatTacco</b></sub></a><br /> </td>
+        <br />
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Malakerm"><img src="https://avatars.githubusercontent.com/u/115747393?v=3?s=100" width="100px;" alt="Malakerm"/>
+      <br /><sub><b>Malakerm</b></sub></a><br /> </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## Shooter Prototype
 
 This shooter prototype uses shuffleboard to retrieve the desired rpms for both top & bottom flywheels.
@@ -31,6 +52,27 @@ Powershell
 ``` sh
 .\gradlew projects:2k24_climber:2k24_Climber:deploy
 ```
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<h3>Contributors</h3>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/TopHatTacco"><img src="https://avatars.githubusercontent.com/u/105398626?v=3?s=100" width="100px;" alt="TopHatTacco"/>
+      <br /><sub><b>TopHatTacco</b></sub></a><br /> </td>
+        <br />
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ovswscrum"><img src="https://avatars.githubusercontent.com/u/21278818?v=3?s=100" width="100px;" alt="ovswscrum"/>
+      <br /><sub><b>ovswscrum</b></sub></a><br /> </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Turret Prototype
 
@@ -44,6 +86,27 @@ Powershell
 .\gradlew projects:2k24-Turret-Prototype:2k24_Turret:deploy
 ```
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<h3>Contributors</h3>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/TopHatTacco"><img src="https://avatars.githubusercontent.com/u/105398626?v=3?s=100" width="100px;" alt="TopHatTacco"/>
+      <br /><sub><b>TopHatTacco</b></sub></a><br /> </td>
+        <br />
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Malakerm"><img src="https://avatars.githubusercontent.com/u/115747393?v=3?s=100" width="100px;" alt="Malakerm"/>
+      <br /><sub><b>Malakerm</b></sub></a><br /> </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## IR Switch
 
 Simple IR switch for the climbers on robot 2.
@@ -55,6 +118,27 @@ Powershell
 ``` sh
 .\gradlew projects:IRSwitch:deploy
 ```
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<h3>Contributors</h3>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/TopHatTacco"><img src="https://avatars.githubusercontent.com/u/105398626?v=3?s=100" width="100px;" alt="TopHatTacco"/>
+      <br /><sub><b>TopHatTacco</b></sub></a><br /> </td>
+        <br />
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Malakerm"><img src="https://avatars.githubusercontent.com/u/115747393?v=3?s=100" width="100px;" alt="Malakerm"/>
+      <br /><sub><b>Malakerm</b></sub></a><br /> </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Limelight Prototype
 
@@ -68,6 +152,24 @@ Powershell
 .\gradlew projects:Limelight-Prototype:deploy
 ```
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<h3>Contributors</h3>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/devsamuelv"><img src="https://avatars.githubusercontent.com/u/52802289?v=3?s=100" width="100px;" alt="devsamuelv"/>
+      <br /><sub><b>devsamuelv</b></sub></a><br /> </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## Northstar Prototype
 
 Code from our attempt with northstar vision system created by 6328.
@@ -79,3 +181,21 @@ Powershell
 ``` sh
 .\gradlew projects:Northstar_robot:deploy
 ```
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<h3>Contributors</h3>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/devsamuelv"><img src="https://avatars.githubusercontent.com/u/52802289?v=3?s=100" width="100px;" alt="devsamuelv"/>
+      <br /><sub><b>devsamuelv</b></sub></a><br /> </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
